@@ -3,20 +3,20 @@ common.operate.failed: Ошибка при выполнении операции
 common.operate.success: Операция успешно завершилась
 common.tooltip_title: Сообщение
 common.input.placeholder: Введите имя
-common.stop: Stop
-common.device: Device
-common.preview: Preview
-common.edit: Edit
+common.stop: Остановить
+common.device: Устройство
+common.preview: Предпросмотр
+common.edit: Редактировать
 common.rename: Переименовать
 common.import: Импортировать
 common.export: Экспортировать
 common.add: Добавить
 common.new: New
-common.new_folder: New Folder
+common.new_folder: Новая папка
 common.create: Создать
 common.add.success: Успешно добавлено
 common.add.failed: Ошибка при добавлении
-common.remove: Remove
+common.remove: Убрать
 common.delete: Удалить
 common.delete.success: Успешно удалено
 common.delete.failed: Ошибка при удалении
@@ -31,9 +31,9 @@ common.ok: OK
 common.save: Сохранить
 common.save_as: Сохранить как
 common.save.success: Успешно сохранено
-common.download: Download
-common.download.success: Download successfully
-common.download.failed: Operation failed
+common.download: Скачать
+common.download.success: Скачано успешно
+common.download.failed: Ошибка при выполнении операции
 common.apply: Применить
 common.apply.success: Успешно применено
 common.apply.failed: Ошибка при применении
@@ -48,7 +48,7 @@ common.time_unit.second: "{{count}} second"
 common.time_unit.second_plural: "{{count}} seconds"
 common.time_unit.millisecond: "{{count}} ms"
 common.return: Return
-common.refresh: Refresh
+common.refresh: Обновить
 common.date: Date
 common.library: Library
 common.none: None
@@ -86,7 +86,7 @@ preferences.setting.language: Язык
 preferences.setting.theme: Тема
 preferences.setting.theme.dark: Темная
 preferences.setting.theme.light: Светлая
-preferences.setting.theme.cyan: Cyan
+preferences.setting.theme.cyan: Голубая
 preferences.setting.update_channel: Пакеты обновлений
 preferences.setting.animation: Анимация на стартовом экране
 preferences.setting.animation.on: Вкл.
